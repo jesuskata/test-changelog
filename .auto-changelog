@@ -1,6 +1,6 @@
 {
   "output": "CHANGELOG.md",
-  "template": "gatekeeper-changelog",
+  "template": "custom-template",
   "unreleased": true,
   "commitLimit": false
 }
