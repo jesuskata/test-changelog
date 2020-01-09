@@ -6,4 +6,4 @@ module.exports = function (Handlebars) {
 }
 
 // custom-template.hbs
-Now you can use {{custom}}
+// Now you can use {{custom}}
